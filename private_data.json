@@ -1,0 +1,19 @@
+{
+    "student_name": "Student",
+    "department": "Biotechnology",
+    "semester": 3,
+    "subjects": {
+        "Biotechnology": {
+            "attendance": 85,
+            "internal_mark": 78
+        },
+        "Python": {
+            "attendance": 91,
+            "internal_mark": 88
+        },
+        "Mathematics": {
+            "attendance": 76,
+            "internal_mark": 72
+        }
+    }
+}
